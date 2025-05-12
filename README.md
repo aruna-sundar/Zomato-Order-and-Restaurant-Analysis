@@ -79,3 +79,5 @@ The goal was to analyse total orders, revenue, ratings, and delivery performance
 ---
 
 ## 📸 Dashboards
+![image alt](https://github.com/aruna-sundar/Zomato-Order-and-Restaurant-Analysis/blob/0a5aa2d2f74236813ffa5a4f855890f27cbeb0c1/Zomato%20Dashboard.png)
+
