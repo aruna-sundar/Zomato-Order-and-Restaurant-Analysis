@@ -18,7 +18,7 @@ The food delivery platform observed varying sales performance across cities and 
 
 ## 📂 Data
 
-📎 **[Link to Dataset](#)**
+📎 **[Link to Dataset](https://github.com/aruna-sundar/Zomato-Order-and-Restaurant-Analysis/blob/main/zomato%20restaurants%20and%20orders.xlsx)**
 
 ---
 
